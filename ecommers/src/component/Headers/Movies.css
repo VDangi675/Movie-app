@@ -1,0 +1,38 @@
+.box{
+    height: 100vw;
+}
+.movies{
+    width: 400px;
+    height:400px;
+    margin: 2% auto;;
+}
+
+.img-1{
+    width: 100%;
+    height:100%;
+    border:10px solid rgb(202, 37, 37);
+   
+}
+.details{
+    margin-top:20% ;
+    width: 100%;
+    min-height: 100px;
+   
+
+}
+.sec-1{
+    width: 100%;
+    border: 3px solid wheat;
+    text-align: left;
+}
+
+
+.title{
+    width: 100%;
+    text-align: center;
+    position:absolute;
+    margin: 5% auto;
+}
+h1,h2,p,h4,h3{
+    color:white;
+}
